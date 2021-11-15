@@ -32,7 +32,7 @@ This is a Java Swing-based calculator that does calculations using the BODMAS ru
 
 -   Clone the repository
 
-    `git clone https://github.com/ayxsth/RailGate.git`
+    `git clone https://github.com/ayxsth/bodmas-calculator-java.git`
 
 -   Open the IDE
 
